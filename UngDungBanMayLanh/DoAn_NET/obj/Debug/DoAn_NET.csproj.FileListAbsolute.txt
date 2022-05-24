@@ -1,0 +1,85 @@
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe.config
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csprojResolveAssemblyReference.cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frmMain.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.Properties.Resources.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csproj.GenerateResource.Cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe.licenses
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangNhap.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_KhachHang.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_ThongKe.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_Home.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangKy.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_SANPHAM.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe.config
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csprojResolveAssemblyReference.cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frmMain.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_ChiTietSP.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangKy.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangNhap.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_Home.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_KhachHang.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_SANPHAM.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_ThongKe.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.Properties.Resources.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.tes.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.UC_KhachHang.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.UC_ThongKe.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csproj.GenerateResource.Cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe.licenses
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe.config
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.pdb
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.dll
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\bin\Debug\System.Web.Http.xml
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csprojResolveAssemblyReference.cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frmMain.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_ChiTietSP.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangKy.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_DangNhap.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_Home.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_KhachHang.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_SANPHAM.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_ThongKe.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.Properties.Resources.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.csproj.GenerateResource.Cache
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\New folder (2)\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe.licenses
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.item_SP.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.frm_InPhieu.resources
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\quanLyBanMayLanh\DoAn_NET\DoAn_NET\bin\Debug\DoAn_NET.exe.config
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\quanLyBanMayLanh\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.exe
+C:\Users\ydon\OneDrive\Documents\Bai Học mới\CongNgheNet\quanLyBanMayLanh\DoAn_NET\DoAn_NET\obj\Debug\DoAn_NET.pdb
